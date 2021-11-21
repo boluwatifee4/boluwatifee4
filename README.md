@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ola Boluwatife
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 Frontend Web developer
+- 🌱 Angular, Learning React
 - 💞️ I’m looking to collaborate on available opportunities
 - 📫 How to reach me : email = boluwatifee4@gmail.com
 
