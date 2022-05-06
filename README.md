@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ola Boluwatife
 - 👀 Frontend Web developer
-- 🌱 Angular, Learning React
+- 🌱 Angular, React
 - 💞️ I’m looking to collaborate on available opportunities
 - 📫 How to reach me : email = boluwatifee4@gmail.com
 
