@@ -3,7 +3,7 @@
  #  Hi, I’m Ola Boluwatife
 
 - 👀 Frontend Web developer
-- [![angular](https://cdn3.emoji.gg/emojis/6573_angular.png)](https://emoji.gg/emoji/6573_angular =50x) Angular, ⚛️ React
+- 💞️ Angular, ⚛️ React
 - 💞️ I’m looking to collaborate on available opportunities.
 - Please drop a ✨
 - 📫 How to reach me : email = boluwatifee4@gmail.com
