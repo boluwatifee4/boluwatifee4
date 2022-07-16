@@ -1,5 +1,5 @@
-                                                                    
- # ![Alt Text](https://media3.giphy.com/media/LPkczVwUYcMbXsRCdP/200w.gif?cid=82a1493banlv26lkmkb3ysamrk8608zide4qis2xphj583lh&rid=200w.gif&ct=g) Hi, I’m Ola Boluwatife
+ # ![Alt Text](https://i.pinimg.com/originals/f1/50/79/f150795d85cae26064578fff8683168f.gif)                                                                 
+ #  Hi, I’m Ola Boluwatife
 
 - 👀 Frontend Web developer
 - 🌱 Angular, React
