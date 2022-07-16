@@ -1,5 +1,5 @@
                                                                     
-                                                                          ##👋 Hi, I’m Ola Boluwatife
+                                                                  ## 👋 Hi, I’m Ola Boluwatife
 
 - 👀 Frontend Web developer
 - 🌱 Angular, React
