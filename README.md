@@ -1,4 +1,4 @@
- # ![Alt Text](https://i.pinimg.com/originals/f1/50/79/f150795d85cae26064578fff8683168f.gif)                                                                 
+ # ![Hello](https://media4.giphy.com/media/RezqzWvFCcZWl53CI3/giphy.gif)                                                                 
  #  Hi, I’m Ola Boluwatife
 
 - 👀 Frontend Web developer
